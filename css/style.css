@@ -1,0 +1,32 @@
+.za{
+  margin-top: 10%;
+  margin-left: 14%;
+  font-family: "Open Sans";
+  color: black;
+}
+.za1{
+  margin-left: 14%;
+  font-family: "Open Sans";
+}
+.za2{
+  margin-left: 14%;
+  font-family: "Open Sans";
+}
+.opis{
+  margin-left: 12%;
+  font-size: "5";
+  font-family: "Open sans";
+}
+.rights{
+  margin-left: 40%;
+  font-family: "Open sans";
+  font-size: "4"
+}
+.nav11{
+  background-color: DimGrey;
+  font-family: "PT Sans";
+}
+nav{
+  height: 30px;
+  font-size: 25px;
+}
