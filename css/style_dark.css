@@ -1,11 +1,8 @@
-body {
- background-image: url(img/bg.jpg);
-}
 .za{
+  color: DeepSkyBlue ;
   margin-top: 10%;
   text-align: center;
   font-family: "Open Sans";
-  color: DeepSkyBlue;
 }
 .za1{
   text-align: center;
@@ -23,10 +20,10 @@ body {
 .rights{
   margin-left: 40%;
   font-family: "Open sans";
-  font-size: "4";
+  font-size: "4"
 }
 .nav11{
-  background-color: DimGrey;
+  background-color: DarkGray;
   font-family: "PT Sans";
 }
 nav{
